@@ -1,6 +1,6 @@
 ### Hello, GitHub 👋
 
-<img src=banner.png />
+<img src=profile-banner.png />
 
 ## I'm Michael Verges
 
