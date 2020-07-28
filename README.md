@@ -6,7 +6,7 @@ I study Computer Science at Georgia Institute of Technology, with concentrations
 
 As a contractor, I build and design iOS apps.
 
-[**My Resume**](https://github.com/maustinstar/resume)
+[**My Full Resume**](https://github.com/maustinstar/resume)
 
 ## My Work
 
