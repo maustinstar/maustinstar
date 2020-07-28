@@ -8,6 +8,16 @@ As a contractor, I build and design iOS apps.
 
 [**My Resume**](https://github.com/maustinstar/resume)
 
+## My Work
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maustinstar&layout=compact" height=140 />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=swiftui-drawer" height=140 />
+</a>
+
+
 ## 💬 Let's start a conversation
 
 Ask me about iOS, Swift, design, or contract work.
