@@ -1,6 +1,6 @@
 ### Hello, GitHub 👋
 
-<img src=profile-banner.png />
+<img src=https://raw.githubusercontent.com/maustinstar/maustinstar/master/profile-banner.png />
 
 ## I'm Michael Verges
 
