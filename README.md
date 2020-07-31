@@ -6,9 +6,13 @@ I study Computer Science at Georgia Institute of Technology, with concentrations
 
 As a contractor, I build and design iOS apps.
 
-<a href="https://www.linkedin.com/in/michaelverges">
+<a href="https://github.com/maustinstar/resume">
   <img src="https://img.shields.io/badge/Read%20my-Resume-687581.svg" align="left" />
+</a>
+<a href="https://devpost.com/maustinstar">
   <img src="https://img.shields.io/badge/View%20my-Devpost-5075A2.svg" align="left" />
+</a>
+<a href="https://www.linkedin.com/in/michaelverges">
   <img src="https://img.shields.io/badge/Connect%20on-Linkedin-5176B1.svg" />
 </a>
 
