@@ -6,15 +6,17 @@ I study Computer Science at Georgia Institute of Technology, with concentrations
 
 As a contractor, I build and design iOS apps.
 
-[**My Full Resume**](https://github.com/maustinstar/resume)
+## My Resume
+
+<a href="https://github.com/maustinstar/resume">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=resume" height=150 />
+</a>
 
 ## My Work
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maustinstar&layout=compact" height=140 />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maustinstar&layout=compact" height=150 />
 <a href="https://github.com/maustinstar/swiftui-drawer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=swiftui-drawer" height=140 />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=swiftui-drawer" height=150 />
 </a>
 
 
