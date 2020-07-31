@@ -6,10 +6,10 @@ I study Computer Science at Georgia Institute of Technology, with concentrations
 
 As a contractor, I build and design iOS apps.
 
-## My Resume
-
-<a href="https://github.com/maustinstar/resume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=resume" height=140 width=220 />
+<a href="https://www.linkedin.com/in/michaelverges">
+  <img src="https://img.shields.io/badge/Read%20my-Resume-687581.svg" align="left" />
+  <img src="https://img.shields.io/badge/View%20my-Devpost-5075A2.svg" align="left" />
+  <img src="https://img.shields.io/badge/Connect%20on-Linkedin-5176B1.svg" />
 </a>
 
 ## My Work
@@ -24,7 +24,7 @@ As a contractor, I build and design iOS apps.
 
 Ask me about iOS, Swift, design, or contract work.
 
-Connect on [Linkedin](https://www.linkedin.com/in/michaelverges).
+[![Connect on Linkedin](https://img.shields.io/badge/Connect%20on-Linkedin-5176B1.svg)](https://www.linkedin.com/in/michaelverges)
 
 <!--
 **maustinstar/maustinstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
