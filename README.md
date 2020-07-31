@@ -9,7 +9,7 @@ As a contractor, I build and design iOS apps.
 ## My Resume
 
 <a href="https://github.com/maustinstar/resume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=resume" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=resume" height=100 width=220 />
 </a>
 
 ## My Work
