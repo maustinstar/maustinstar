@@ -23,10 +23,6 @@ As a contractor, I build and design iOS apps.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=swiftui-drawer" height=150 />
 </a>
 
-<a href="https://github.com/maustinstar/shiny">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=shiny" height=150 />
-</a>
-
 
 ## 💬 Let's start a conversation
 
