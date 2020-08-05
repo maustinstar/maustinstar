@@ -13,8 +13,19 @@ As a contractor, I build and design iOS apps.
   <img src="https://img.shields.io/badge/View%20my-Devpost-5075A2.svg" align="left" />
 </a>
 <a href="https://www.linkedin.com/in/michaelverges">
-  <img src="https://img.shields.io/badge/Connect%20on-Linkedin-5176B1.svg" />
+  <img src="https://img.shields.io/badge/Connect%20on-Linkedin-5176B1.svg" align="left" />
 </a>
+<a href="https://forums.swift.org/u/maustinstar">
+  <img src="https://img.shields.io/badge/Connect%20on-Swift%20Forums-DE5C43.svg" />
+</a>
+
+## Open Source
+
+For all of my public repositories, feedback & PRs are welcomed.
+
+For members of the Swift comunity, see my latest [proposal to Swift Package Manager](https://forums.swift.org/t/package-manager-executable-only-dependencies/39070).
+
+[![Swift Forums](https://img.shields.io/badge/Swift%20Forums-Executable%20Only%20Dependencies-DE5C43.svg)](https://forums.swift.org/t/package-manager-executable-only-dependencies/39070)
 
 ## My Work
 
@@ -32,6 +43,7 @@ As a contractor, I build and design iOS apps.
 Ask me about iOS, Swift, design, or contract work.
 
 [![Connect on Linkedin](https://img.shields.io/badge/Connect%20on-Linkedin-5176B1.svg)](https://www.linkedin.com/in/michaelverges)
+[![Connect on Swift Forums](https://img.shields.io/badge/Connect%20on-Swift%20Forums-DE5C43.svg)](https://forums.swift.org/u/maustinstar)
 
 <!--
 **maustinstar/maustinstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
