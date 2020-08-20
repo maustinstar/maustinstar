@@ -29,13 +29,16 @@ For members of the Swift comunity, see my latest [proposal to Swift Package Mana
 
 ## My Work
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maustinstar&layout=compact" height=150 />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maustinstar&layout=compact" height=130 />
 <a href="https://github.com/maustinstar/swiftui-drawer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=swiftui-drawer" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=swiftui-drawer" height=130 />
 </a>
 
 <a href="https://github.com/maustinstar/shiny">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=shiny" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=shiny" height=130 align="left" />
+</a>
+<a href="https://github.com/maustinstar/liquid">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=liquid" height=130 />
 </a>
 
 ## 💬 Let's start a conversation
