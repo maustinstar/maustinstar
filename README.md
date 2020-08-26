@@ -19,14 +19,6 @@ As a contractor, I build and design iOS apps.
   <img src="https://img.shields.io/badge/Connect%20on-Swift%20Forums-DE5C43.svg" />
 </a>
 
-## Open Source
-
-For all of my public repositories, feedback & PRs are welcomed.
-
-For members of the Swift comunity, see my latest [proposal to Swift Package Manager](https://forums.swift.org/t/package-manager-executable-only-dependencies/39070).
-
-[![Swift Forums](https://img.shields.io/badge/Swift%20Forums-Executable%20Only%20Dependencies-DE5C43.svg)](https://forums.swift.org/t/package-manager-executable-only-dependencies/39070)
-
 ## My Work
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maustinstar&layout=compact" height=130 />
@@ -40,6 +32,8 @@ For members of the Swift comunity, see my latest [proposal to Swift Package Mana
 <a href="https://github.com/maustinstar/liquid">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maustinstar&repo=liquid" height=130 />
 </a>
+
+For all of my public repositories, feedback & PRs are welcomed.
 
 ## 💬 Let's start a conversation
 
