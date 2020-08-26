@@ -6,18 +6,10 @@ I study Computer Science at Georgia Institute of Technology, with concentrations
 
 As a contractor, I build and design iOS apps.
 
-<a href="https://github.com/maustinstar/resume">
-  <img src="https://img.shields.io/badge/Read%20my-Resume-687581.svg" align="left" />
-</a>
-<a href="https://devpost.com/maustinstar">
-  <img src="https://img.shields.io/badge/View%20my-Devpost-5075A2.svg" align="left" />
-</a>
-<a href="https://www.linkedin.com/in/michaelverges">
-  <img src="https://img.shields.io/badge/Connect%20on-Linkedin-5176B1.svg" align="left" />
-</a>
-<a href="https://forums.swift.org/u/maustinstar">
-  <img src="https://img.shields.io/badge/Connect%20on-Swift%20Forums-DE5C43.svg" />
-</a>
+[![Read my Resume](https://img.shields.io/badge/Read%20my-Resume-687581.svg)](https://github.com/maustinstar/resume)
+[![View on Devpost](https://img.shields.io/badge/View%20on-Devpost-5075A2.svg)](https://devpost.com/maustinstar)
+[![Follow on Linkedin](https://img.shields.io/badge/Follow%20on-Linkedin-5176B1.svg)](https://www.linkedin.com/in/michaelverges)
+[![Connect on Swift Forums](https://img.shields.io/badge/Connect%20on-Swift%20Forums-DE5C43.svg)](https://forums.swift.org/u/maustinstar)
 
 ## My Work
 
