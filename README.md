@@ -1,10 +1,13 @@
 <img src=https://raw.githubusercontent.com/maustinstar/maustinstar/master/profile-banner.png />
 
-## I'm Michael Verges
+## About Me
+
+Hi, Michael Verges 👋
 
 I study Computer Science at Georgia Institute of Technology, with concentrations in People and Intelligence.
-
 As a contractor, I build and design iOS apps.
+
+Check out my latest PR to apple/swift: [\[SR-10011\] \[Lexer\] Raw Strings escape character sequence resembling multiline delimiter](https://github.com/apple/swift/pull/34414)
 
 [![Read my Resume](https://img.shields.io/badge/Read%20my-Resume-687581.svg)](https://github.com/maustinstar/resume)
 [![View on Devpost](https://img.shields.io/badge/View%20on-Devpost-5075A2.svg)](https://devpost.com/maustinstar)
