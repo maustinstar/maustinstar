@@ -7,12 +7,19 @@ Hi, Michael Verges 👋
 I study Computer Science at Georgia Institute of Technology, with concentrations in People and Intelligence.
 As a contractor, I build and design iOS apps.
 
-Check out my latest PR to apple/swift: [\[SR-10011\] \[Lexer\] Raw Strings escape character sequence resembling multiline delimiter](https://github.com/apple/swift/pull/34414)
+
 
 [![Read my Resume](https://img.shields.io/badge/Read%20my-Resume-687581.svg)](https://github.com/maustinstar/resume)
 [![View on Devpost](https://img.shields.io/badge/View%20on-Devpost-5075A2.svg)](https://devpost.com/maustinstar)
 [![Follow on Linkedin](https://img.shields.io/badge/Follow%20on-Linkedin-5176B1.svg)](https://www.linkedin.com/in/michaelverges)
 [![Connect on Swift Forums](https://img.shields.io/badge/Connect%20on-Swift%20Forums-DE5C43.svg)](https://forums.swift.org/u/maustinstar)
+
+## Open Source
+Check out my latest contributions to the Swift Compiler:
+
+[\[SR-11711\] \[Parse\] Single-expression implicit returns within #if declarations](https://github.com/apple/swift/pull/34510)
+
+[\[SR-10011\] \[Lexer\] Raw Strings escape character sequence resembling multiline delimiter](https://github.com/apple/swift/pull/34414)
 
 ## My Work
 
