@@ -1,5 +1,3 @@
-<img src=https://raw.githubusercontent.com/maustinstar/maustinstar/master/profile-banner.png />
-
 ## About Me
 
 Hi, Michael Verges 👋
